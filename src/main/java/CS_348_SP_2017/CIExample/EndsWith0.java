@@ -7,7 +7,11 @@ public class EndsWith0 {
 	public EndsWith0()  {
 		names = "";
 		// add your name here in the form of a line that looks like:
+
 		names+="Tyler Lundstrom\n";
+		// names+= "John Smith\n"
+		names += "Chris Braley\n";
+
 	}
 
 	@Override
