@@ -9,7 +9,7 @@ public class EndsWith8Test {
 	@Test
 	public void testToString() {
 		EndsWith8 eight = new EndsWith8();
-		assertEquals("EndsWith8 [names=]", eight.toString());
+		assertEquals("EndsWith8 [names=Taylor Nock\n]", eight.toString());
 	}
 
 }
